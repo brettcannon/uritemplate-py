@@ -1,7 +1,7 @@
 uritemplate
 ===========
 
-.. image:: https://secure.travis-ci.org/uri-templates/uritemplate-py.png?branch=master
+.. image:: https://secure.travis-ci.org/uri-templates/uritemplate-py.svg?branch=master
    :alt: build status
    :target: http://travis-ci.org/uri-templates/uritemplate-py
 
